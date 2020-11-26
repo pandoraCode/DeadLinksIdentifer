@@ -1,0 +1,4 @@
+website;nr_visted_links;nr_dead_links;time_to_run
+https://www.edpinc.com/;39;0;1:15
+https://www.droussel.ca;20/0;0:27
+https://www.lebalthazar.com;97;5;3:17

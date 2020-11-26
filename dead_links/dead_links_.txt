@@ -1,0 +1,6 @@
+
+/tmp/htmlpages/arena.html
+/tmp/htmlpages/arenae.html
+/tmp/htmlpages/credits.html
+/tmp/htmlpages/default.html
+/tmp/htmlpages/main.html

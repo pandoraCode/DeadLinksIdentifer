@@ -1,0 +1,3 @@
+ /Users/isabellaferreira/Dropbox/PhD/Winter2020/INF8007_LangageScript/scriptlan/node_server/website/index.html 
+ /Users/isabellaferreira/Dropbox/PhD/Winter2020/INF8007_LangageScript/scriptlan/node_server/website/ns.html 
+ /Users/isabellaferreira/Desktop/test_python.html
